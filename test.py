@@ -1,4 +1,4 @@
-X=5;
-y=8;
-z=x*y;
-print(z);
+X=5
+y=8
+z=x*y
+print(z)
