@@ -1,1 +1,1 @@
-Print("hello welcome to java")
+print("Hello, World!")
