@@ -1,1 +1,1 @@
-Print"hello welcome to java"
+Print("hello welcome to java")
